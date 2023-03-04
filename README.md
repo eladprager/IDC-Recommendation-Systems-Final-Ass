@@ -3,9 +3,11 @@ Source code:
 Notebook File
 
 
+
 Instructions on how to run the code: 
 
 Open the attached notebook in colab, drag u.data, u.item, u.user and the gzips to the colab content folder and run the notebook
+
 
 
 Algorithm hyperparameters: 
